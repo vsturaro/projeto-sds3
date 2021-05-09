@@ -5,14 +5,11 @@
 
 https://vsturaro-sds3.netlify.app
 
-DS Vendas é uma aplicação full stack web e mobile (responsiva) construída durante a **Semana Spring React** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Vendas é uma aplicação full stack web construída durante a **Semana Spring React** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma consulta a dados de vendas de alguns vendedores, onde trás informações de quantia de vendas feitas, quantia de clientes visitados e total de vendas, onde apresenta um dashboard com gráficos baseados nestes dados.
 
-## Layout mobile
-![Mobile 1](https://github.com/vsturaro/projeto-sds3/raw/main/frontend/src/assets/img/indexMobile.jp) ![Mobile 2](https://github.com/vsturaro/projeto-sds3/raw/main/frontend/src/assets/img/dashboardMobile.jp)
-
-## Layout web
+## Layout
 ![Web 1](https://github.com/vsturaro/projeto-sds3/raw/main/frontend/src/assets/img/index.png)
 
 ![Web 2](https://github.com/vsturaro/projeto-sds3/raw/main/frontend/src/assets/img/dashboard.png)
